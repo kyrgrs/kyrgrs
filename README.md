@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/2ca1f482583301.5e0f5f67608a5.png)
+![MasterHead](https://i.hizliresim.com/7xdiuol.png)
 <h1 align="center">Merhaba 👋, Ben Arda Gürel</h1>
 <h3 align="center">Kendi Çapımda Küçük Küçük Kodlarla Uğraşıyorum.</h3>
 
