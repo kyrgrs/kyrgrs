@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kyrgrs09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrgrs09" height="30" width="40" /></a>
-<a href="https://discord.gg/MUuNHDT4sG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MUuNHDT4sG" height="30" width="40" /></a>
+<a href="https://discord.gg/nT93Da4X43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MUuNHDT4sG" height="30" width="40" /></a>
 <a href="/kayragursu.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="kayragursu.com" height="30" width="40" /></a>
 </p>
 
