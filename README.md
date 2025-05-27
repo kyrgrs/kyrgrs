@@ -1,4 +1,3 @@
-![MasterHead](https://i.hizliresim.com/7xdiuol.png)
 <h1 align="center">Selam 👋, Ben Kayra Gürsu</h1>
 <h3 align="center">Light RolePlay'in Web & Server Developeriyim</h3>
 
